@@ -81,7 +81,7 @@ body{
 
 .card__description{
     color: var(--Gray500);
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-bottom: 10px;
 }
 
